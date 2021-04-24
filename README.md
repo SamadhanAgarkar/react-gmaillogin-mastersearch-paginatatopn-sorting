@@ -5,6 +5,8 @@ URL : http://celebaltech-reactjs-demo.surge.sh
 
 # Product List Page
 
+# Pagination Functionality
+
 # Master Search Option in Product List
 
 # Sorting Ascending order and Descending order
