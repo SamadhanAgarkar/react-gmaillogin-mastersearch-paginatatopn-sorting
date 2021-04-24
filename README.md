@@ -1,7 +1,13 @@
 ## See Demo Links Here
 URL : http://celebaltech-reactjs-demo.surge.sh
 
-# Project with Google Gmail Login, Master Search Option in Product List, Sorting ASC to DSC
+# Project with Google Gmail Login
+
+# Product List Page
+
+# Master Search Option in Product List
+
+# Sorting Ascending order and Descending order
 
 # Getting Started with Create React App
 
